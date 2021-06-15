@@ -1,0 +1,7 @@
+1.Cuál es la diferencia entre Git y GitHub?
+R//Git  es un sistema de control de versiones, lo que eso significa realmente es que Git nos ayuda a gestionar nuestros archivos de proyecto. 
+        Una de las cosas principales que hace Git y también la razón principal por la que existe es para mantener un registro de toda la historia de las cosas en las que estás trabajando.
+
+ GitHub es un servicio basado en la web para el control de versiones usando Git. 
+       Básicamente, es un sitio de redes sociales para desarrolladores. Puedes mirar el código de otras personas, identificar los problemas con su código e incluso proponer cambios. 
+       Esto también le ayuda a mejorar su código. En una nota más ligera, es un gran lugar para mostrar tus proyectos y ser notado por los reclutadores potenciales.
