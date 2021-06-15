@@ -1,2 +1,9 @@
 2.Describa el significado de repositorio.?
 R//. Repositorio es un sitio centralizado donde se almacena y mantiene información digital, habitualmente bases de datos o archivos informáticos.
+
+3.Aparte de GitHub, Qué otras aplicaciones en la nube utilizamos para subir nuestros repositorios?
+R//. GitLab
+SourceForge.
+Cloud source repositories.
+GitKraken.
+Apache allura
